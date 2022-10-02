@@ -1,0 +1,4 @@
+SHELL=/bin/sh
+PATH=/usr/sbin:/usr/bin:/sbin:/bin
+
+1 0 * * * lists /opt/mailing_list/list-cron >> /opt/mailing_list/mailing_list_cron.log

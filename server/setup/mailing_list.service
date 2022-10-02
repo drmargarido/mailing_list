@@ -1,0 +1,14 @@
+[Unit]
+Description=Mailing Lists Service
+After=network.target
+After=postgresql.service
+
+[Service]
+User=lists
+Group=see_certs
+Type=simple
+Restart=always
+ExecStart=/opt/mailing_list/list-server
+
+[Install]
+WantedBy=multi-user.target

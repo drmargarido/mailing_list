@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=MailingList
+Terminal=false
+GenericName=Mailing List client for my Games / Websites
+Categories=Utility;
+Exec=mailing-list
+Icon=mailing-list.png
+StartupWMClass=mailing-list
