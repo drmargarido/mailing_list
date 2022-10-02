@@ -1,5 +1,13 @@
 # Mailing Lists
 
+With this system people can register with their email in a mailing list 
+for the server owner later be able send any wanted email.
+
+I built this for myself, and put it here just as an example of how a web service
+can be done in C. If anyone wants to use it probably you will want to edit the email
+templates that exist in the code.
+
+
 ## Download Repository
 
 Clone with submodules for the dependencies of each part
