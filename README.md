@@ -4,7 +4,7 @@
 
 Clone with submodules for the dependencies of each part
 ```bash
-git clone --recurse-submodules git@bitbucket.org:Alface0/mailinglists.git
+git clone --recurse-submodules git@github.com:drmargarido/mailing_list.git
 ```
 
 ## Server
