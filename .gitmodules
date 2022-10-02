@@ -1,6 +1,0 @@
-[submodule "vendor/libhttp"]
-	path = vendor/libhttp
-	url = https://github.com/lammertb/libhttp.git
-[submodule "vendor/jsmn"]
-	path = vendor/jsmn
-	url = https://github.com/zserge/jsmn
