@@ -99,3 +99,7 @@ make test
 
 + gtk - [link](https://www.gtk.org/)
 + jsmn - [link](https://github.com/zserge/jsmn)
+
+## Other
+
+A devlog about the mailing list development can be found [here](https://daniel.smargarido.com/mailing_list).
